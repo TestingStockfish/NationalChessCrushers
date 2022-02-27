@@ -1,4 +1,5 @@
 # National Chess Crushers (NCC)
+![https://imgur.com/UE0LLdl](https://imgur.com/UE0LLdl.jpg)
 ![https://imgur.com/EH75fxH](https://imgur.com/EH75fxH.jpg)
 ================================================
 
